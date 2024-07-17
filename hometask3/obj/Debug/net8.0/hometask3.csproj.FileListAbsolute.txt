@@ -1,0 +1,14 @@
+C:\Users\Olga\Desktop\homework7\hometask3\bin\Debug\net8.0\hometask3.exe
+C:\Users\Olga\Desktop\homework7\hometask3\bin\Debug\net8.0\hometask3.deps.json
+C:\Users\Olga\Desktop\homework7\hometask3\bin\Debug\net8.0\hometask3.runtimeconfig.json
+C:\Users\Olga\Desktop\homework7\hometask3\bin\Debug\net8.0\hometask3.dll
+C:\Users\Olga\Desktop\homework7\hometask3\bin\Debug\net8.0\hometask3.pdb
+C:\Users\Olga\Desktop\homework7\hometask3\obj\Debug\net8.0\hometask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\Desktop\homework7\hometask3\obj\Debug\net8.0\hometask3.AssemblyInfoInputs.cache
+C:\Users\Olga\Desktop\homework7\hometask3\obj\Debug\net8.0\hometask3.AssemblyInfo.cs
+C:\Users\Olga\Desktop\homework7\hometask3\obj\Debug\net8.0\hometask3.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\homework7\hometask3\obj\Debug\net8.0\hometask3.dll
+C:\Users\Olga\Desktop\homework7\hometask3\obj\Debug\net8.0\refint\hometask3.dll
+C:\Users\Olga\Desktop\homework7\hometask3\obj\Debug\net8.0\hometask3.pdb
+C:\Users\Olga\Desktop\homework7\hometask3\obj\Debug\net8.0\hometask3.genruntimeconfig.cache
+C:\Users\Olga\Desktop\homework7\hometask3\obj\Debug\net8.0\ref\hometask3.dll
